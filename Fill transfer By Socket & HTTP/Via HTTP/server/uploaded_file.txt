@@ -1,0 +1,6 @@
+--eac888c4ae8358039dc6876ea5935163
+Content-Disposition: form-data; name="file"; filename="local_file.txt"
+
+Hi bro
+
+--eac888c4ae8358039dc6876ea5935163--

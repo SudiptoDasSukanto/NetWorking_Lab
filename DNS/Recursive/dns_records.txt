@@ -1,0 +1,4 @@
+cse.du.ac.bd.      IN  A       192.168.1.10
+cse.du.ac.bd.      IN  AAAA    2001:0db8:85a3:0000:0000:8a2e:0370:7334
+www.cse.du.ac.bd.  IN  CNAME   cse.du.ac.bd.
+cse.du.ac.bd.      IN  MX      10 mail.cse.du.ac.bd.
